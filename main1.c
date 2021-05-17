@@ -11,7 +11,8 @@ int main(void) {
  scanf("%d", Question1); 
  if (Question1=="January") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
  printf("Question 2:\n");
@@ -20,7 +21,8 @@ int main(void) {
  scanf("%d", Question2);
  if (Question2=="Tazerling") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
  printf("Question 3:\n");
@@ -29,7 +31,8 @@ int main(void) {
  scanf("%d", Question3);
  if (Question3=="Sito") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 4:\n");
@@ -38,7 +41,8 @@ int main(void) {
  scanf("%d", Question4);
  if (Question5=="JuJu") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 5:\n");
@@ -47,7 +51,8 @@ int main(void) {
  scanf("%d", Question5);
  if (Question5=="Stinks") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 6:\n");
@@ -56,7 +61,8 @@ int main(void) {
  scanf("%d", Question6);
  if (Question6=="Troll") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 7:\n");
@@ -65,7 +71,8 @@ int main(void) {
  scanf("%d", Question7);
  if (Question7=="Shadow Clan?\n") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 8:\n");
@@ -74,7 +81,8 @@ int main(void) {
  scanf("%d", Question8);
  if (Question8=="Enigmo") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 9:\n");
@@ -83,7 +91,8 @@ int main(void) {
  scanf("%d", Question2);
  if (Question2=="Tazerling") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
   printf("Question 10:\n");
@@ -92,7 +101,9 @@ int main(void) {
  scanf("%d", Question10);
  if (Question10=="5") {
  	printf("Correct\n");
- }else {
+ }
+ else {
  	printf("wrong\n");
  }
- return 0; }
+ return 0;
+}
